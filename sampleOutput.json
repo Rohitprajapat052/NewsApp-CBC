@@ -1,0 +1,175 @@
+{
+    "status": "ok",
+    "totalResults": 1878,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "Lifehacker.com"
+    },
+    "author": "Jake Peterson",
+    "title": "Beeper Isn't a Safe Solution for iMessaging on Android",
+    "description": "You might have seen some buzz online about Beeper, an all-in-one solution that combines all your messaging apps in one place. According to the company, you no longer need to juggle a huge number of apps just to keep in touch with friends, family, and work: Wi…",
+    "url": "https://lifehacker.com/beeper-isnt-a-safe-solution-for-imessaging-on-android-1850734981",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/6dfc3042db81ae5ae791f26b2cc03e02.png",
+    "publishedAt": "2023-08-14T18:30:00Z",
+    "content": "You might have seen some buzz online about Beeper, an all-in-one solution that combines all your messaging apps in one place. According to the company, you no longer need to juggle a huge number of a… [+6169 chars]"
+    },
+    
+    {
+    "source": {
+    "id": null,
+    "name": "Hackaday"
+    },
+    "author": "Maya Posch",
+    "title": "Adding Power over Ethernet Support To a Mac Mini",
+    "description": "Despite all the fancy features on modern Apple Mac systems like USB-C and Thunderbolt, they have one glaring omission: the absolute lack of any form of Power-over-Ethernet (PoE). This is an issue t…",
+    "url": "https://hackaday.com/2023/08/14/adding-power-over-ethernet-support-to-a-mac-mini/",
+    "urlToImage": "https://hackaday.com/wp-content/uploads/2023/08/mac-mini-poe-featured.jpg",
+    "publishedAt": "2023-08-14T20:00:31Z",
+    "content": "Wiring up a Mac Mini’s new PoE module. (Credit: Ivan Kuleshov)\r\nDespite all the fancy features on modern Apple Mac systems like USB-C and Thunderbolt, they have one glaring omission: the absolute lac… [+2064 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Ricardo Aguilar",
+    "title": "'Apple Watch X': el mayor cambio en la historia del Apple Watch, según Gurman",
+    "description": "El Apple Watch, históricamente, ha sido una de las mayores pruebas de la filosofía continuista con la que predica Apple. Salvando saltos como el Apple Watch Ultra, las distintas iteraciones anuales siguen un marcado camino. Todo cambiará el año que viene o, a…",
+    "url": "https://www.xataka.com/relojes-inteligentes/apple-watch-x-mayor-cambio-historia-apple-watch-gurman",
+    "urlToImage": "https://i.blogs.es/8c5fe7/1366_2000/840_560.jpeg",
+    "publishedAt": "2023-08-14T07:01:26Z",
+    "content": "El Apple Watch, históricamente, ha sido una de las mayores pruebas de la filosofía continuista con la que predica Apple. Salvando saltos como el Apple Watch Ultra, las distintas iteraciones anuales s… [+1453 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Ricardo Aguilar",
+    "title": "La batería de mi iPhone está al 90% de su capacidad tras diez meses. Es completamente normal",
+    "description": "La polémica del fin de semana está protagonizada por la degradación de la batería que están sufriendo los iPhone 14 Pro y 14 Pro Max. Usuarios en la red social X y foros como Reddit aseguran que este año el desgaste está siendo especialmente alto, con batería…",
+    "url": "https://www.xataka.com/moviles/bateria-mi-iphone-esta-al-90-su-capacidad-diez-meses-completamente-normal",
+    "urlToImage": "https://i.blogs.es/cd1fa8/1366_2000-2-/840_560.jpeg",
+    "publishedAt": "2023-08-14T11:01:28Z",
+    "content": "La polémica del fin de semana está protagonizada por la degradación de la batería que están sufriendo los iPhone 14 Pro y 14 Pro Max. Usuarios en la red social X y foros como Reddit aseguran que este… [+5846 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Javier Marquez",
+    "title": "RISC-V acaba de conseguir el apoyo de cinco empresas de primer nivel para competir con ARM: este es el plan",
+    "description": "La arquitectura de código abierto RISC-V sigue despertando interés entre compañías y países que buscan alternativas a los populares modelos ARM y x86. El principal motivo detrás de este tipo de movimientos es contar con una solución de diseño de hardware inde…",
+    "url": "https://www.xataka.com/componentes/risc-v-acaba-conseguir-apoyo-cinco-empresas-primer-nivel-para-competir-arm-este-plan",
+    "urlToImage": "https://i.blogs.es/9ef831/risc-v-portada-1/840_560.jpeg",
+    "publishedAt": "2023-08-14T23:05:39Z",
+    "content": "La arquitectura de código abierto RISC-V sigue despertando interés entre compañías y países que buscan alternativas a los populares modelosARM y x86. El principal motivo detrás de este tipo de movimi… [+3434 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Alejandro Alcolea",
+    "title": "Samsung Galaxy Z Flip5, análisis: la pantalla externa pasa a ser protagonista en un conjunto tan equilibrado como continuista",
+    "description": "Ya está aquí la nueva generación de los plegables de Samsung. La compañía surcoreana lleva unos cuantos años apostando fuerte por esta tecnología, ofreciendo opciones para los que quieren una tablet de bolsillo -el Galaxy Z Fold 5- y para los que quieren un m…",
+    "url": "https://www.xataka.com/analisis/samsung-galaxy-z-flip-5-analisis-caracteristicas-precio-especificaciones",
+    "urlToImage": "https://i.blogs.es/59563f/analisis-samsung-galaxy-z-flip-5-8/840_560.jpeg",
+    "publishedAt": "2023-08-14T14:01:31Z",
+    "content": "Ya está aquí la nueva generación de los plegables de Samsung. La compañía surcoreana lleva unos cuantos años apostando fuerte por esta tecnología, ofreciendo opciones para los que quieren una tablet … [+31771 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hubspot.com"
+    },
+    "author": "esantiago@hubspot.com (Erica Santiago)",
+    "title": "How SGE & Other Google Search Changes Could Impact Your Traffic [Data + Predictions]",
+    "description": "How you use Google will change as the search engine rolls out Google Search Generative Experience (SGE). SGE is Google's way of efficiently using AI to answer complex or multi-step searches.",
+    "url": "https://blog.hubspot.com/marketing/how-sge-other-google-search-changes-could-impact-your-traffic-data-predictions#article",
+    "urlToImage": "https://blog.hubspot.com/hubfs/Untitled%20design%20%283%29-Jul-28-2023-10-51-23-8134-PM.jpg#keepProtocol",
+    "publishedAt": "2023-08-14T11:00:00Z",
+    "content": "How you use Google will change as the search engine rolls out Google Search Generative Experience (SGE). SGE is Google's way of efficiently using AI to answer complex or multi-step searches.\r\nThe fea… [+5395 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The New Yorker"
+    },
+    "author": "T. Coraghessan Boyle",
+    "title": "“The End Is Only a Beginning,” by T. Coraghessan Boyle",
+    "description": "Fiction by T. Coraghessan Boyle: To be on your own was always an adventure—and this adventure was unfolding in Paris, City of Light.",
+    "url": "https://www.newyorker.com/magazine/2023/08/21/the-end-is-only-a-beginning-fiction-t-coraghessan-boyle",
+    "urlToImage": "https://media.newyorker.com/photos/64d3d1fd03ba9998f5c224bd/16:9/w_1280,c_limit/230821_r42812_rd.jpg",
+    "publishedAt": "2023-08-14T10:00:00Z",
+    "content": "He began to feel less confused. His exhaustion hovered momentarily, like a bird thats flown too far from the roost . . . and then it was gone. Could I buy you a drink? he offered.\r\nWhen he awoke late… [+19594 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Thediff.co"
+    },
+    "author": "Byrne Hobart",
+    "title": "Inside The Decline of Stack Exchange",
+    "description": "Plus! The Other X; Refinancing China; The Activist Short Death Spiral; Rebundling; Fitness Bands; Diff Jobs",
+    "url": "https://www.thediff.co/archive/inside-the-decline-of-stack-exchange/",
+    "urlToImage": "https://www.thediff.co/content/images/2022/02/Screenshot-2022-02-17-at-12.51.50-1.png",
+    "publishedAt": "2023-08-14T13:48:53Z",
+    "content": "Today's free newsletter is brought to you by our sponsor, Antimetal. Antimetal makes cloud savings automated, effortless, and risk-free.\r\nStack Exchange is one of the greatest compendia of human know… [+21782 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Medium"
+    },
+    "author": "Admiral Cloudberg",
+    "title": "Tears in the Rain: The 2002 Überlingen midair collision",
+    "description": "Note: this accident was previously featured in episode 18 of the plane crash series on January 6th, 2018, prior to the series’ arrival on Medium. This article is written without reference to and…",
+    "url": "https://admiralcloudberg.medium.com/tears-in-the-rain-the-2002-%C3%BCberlingen-midair-collision-591232d0c51e",
+    "urlToImage": "https://miro.medium.com/v2/resize:fit:1000/0*Rd5d8k_Nv3Z7fe3z.jpg",
+    "publishedAt": "2023-08-14T12:41:33Z",
+    "content": "Note: this accident was previously featured in episode 18 of the plane crash series on January 6th, 2018, prior to the series arrival on Medium. This article is written without reference to and super… [+60291 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gigazine.net"
+    },
+    "author": "@GIGAZINE",
+    "title": "iPhoneの衛星通信・緊急SOS機能のおかげでハワイ・マウイ島の山火事に遭遇した家族が命を救われる",
+    "description": "2023年8月8日、ハワイのマウイ島で山火事が発生し、13日時点で93人もの死亡が確認されました。この山火事に遭遇した家族が、iPhoneの衛星通信を用いた緊急SOS機能により命を救われたと報じられています。続きを読む...",
+    "url": "https://gigazine.net/news/20230814-rescued-maui-wildfires-iphone-satellite-sos/",
+    "urlToImage": "https://i.gzn.jp/img/2023/08/14/rescued-maui-wildfires-iphone-satellite-sos/00_m.jpg",
+    "publishedAt": "2023-08-14T02:25:00Z",
+    "content": "My brothers girlfriends cousin and his family were caught in their vehicle in Maui while the wildfires suddenly erupted around them. \r\nNo cell service, so Apple Emergency SOS was the only way they co… [+138 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Ben Schwan",
+    "title": "Series X: Apple plant angeblich Jubiläums-Watch",
+    "description": "2024 feiert Apples Computeruhr ihren 10. Geburtstag. Dazu könnte es eine ganz neue Reihe geben, behaupten Insider.",
+    "url": "https://www.heise.de/news/Series-X-Apple-plant-Jubilaeums-Watch-9242929.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/8/5/4/8/4/aufwacher_watch_1_1_hintergrund-42efdb591d88f04b.jpeg",
+    "publishedAt": "2023-08-14T09:22:00Z",
+    "content": "Apples Smartwatch-Produktlinie feiert in absehbarer Zeit einen runden Geburtstag: Im September 2024 wurde sie vor genau zehn Jahren erstmals vorgestellt. Zwar kamen die ersten Geräte dann erst im Frü… [+1964 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Andreas Knobloch",
+    "title": "Montag: Klage gegen Internet Archive, Russlands Raketen mit deutschen Bauteilen",
+    "description": "Musikklabels gegen Gemeinschaftsprojekt + Verstöße gegen Russland-Sanktionen + Apple-Klage gegen Rivos + Decks mit E-Autos nicht ausgebrannt + Rückkehr ins Büro",
+    "url": "https://www.heise.de/news/Montag-Klage-gegen-Internet-Archive-Russlands-Raketen-mit-deutschen-Bauteilen-9242955.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/8/5/4/9/7/Wochentagesource-sans-1ca8b46f54caa4cf.png",
+    "publishedAt": "2023-08-14T04:30:00Z",
+    "content": "Das Gemeinschaftsprojekt Internet Archive hat sich der Digitalisierung von Aufnahmen von 78rpm-Schallplatten verschrieben. Dies diene der Entdeckung und dem Erhalt von seltenen Aufnahmen. Doch mehrer… [+3888 chars]"
+    }
+    ]}
